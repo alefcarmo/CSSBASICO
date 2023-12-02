@@ -1,0 +1,37 @@
+/* body{ */
+    /* width: 100%; */
+    /* background-color: black; */
+
+/* } */
+.coluna1{
+    width: 15%;
+    background-color:red;
+    position: absolute;
+    left: 0%;
+    padding: 25px;
+    top: 60%;
+    left: 25%;
+    border-radius: 26px 0px 35px;
+}
+.coluna2{
+    width: 35%;
+    background-color: blueviolet;
+    position: absolute;
+    left: 30%;
+    top: 0px;
+    padding: 25px;
+    top: 59%;
+    left: 50%;
+    
+  
+}
+.global{
+    width: 100%;
+    background-color:orangered;
+    position: relative;
+    height: 500px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
